@@ -3,12 +3,53 @@ html {
   font-size: 20px;
 }
 
+h1 {
+  color: cadetblue;
+  margin: 0.5cm;
+}
+
+h2 {
+  color: cornflowerblue;
+  margin: 1cm;
+}
+
+h3 {
+  color: darkkhaki;
+  margin: 1.5cm;
+}
+
+p {
+  background-color: rgb(84, 159, 200);
+  font: bold;
+  color: white;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+a {
+  color: rgb(38, 19, 247);
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+ol {
+  background: rgb(28, 137, 195);
+  padding: 10px;
+  border: 1px solid black;
+}
+
 ul {
-  background: red;
+  background: rgb(28, 137, 195);
   padding: 10px;
   border: 1px solid black;
 }
 
 li {
+  color: azure;
   margin-left: 20px;
 }
